@@ -9,7 +9,7 @@ Este es un proyecto de práctica desarrollado en Python para gestionar ingresos 
 - **Cálculo de Totales:** Visualización de saldo disponible y total gastado.
 
 ## 🛠️ Tecnologías utilizadas
-- **Python 3.12**
+- **Python 3.14**
 - **JSON:** Para el almacenamiento persistente de datos.
 - **PyInstaller:** Para la creación de ejecutables.
 - **Venv:** Entorno virtual para manejo de dependencias.
