@@ -1,0 +1,15 @@
+# Entornos virtuales
+venv/
+env/
+
+# Carpetas de PyInstaller (Compilación)
+build/
+dist/
+*.spec
+
+# Datos personales (opcional, si quieres que el repo esté limpio)
+datos.json
+
+# Cache de Python
+__pycache__/
+*.pyc
